@@ -6,4 +6,6 @@ Creating a new branch is quick.
 Creating a new branch is quick and quick.
 test --no--ff rather than Fast forward.
 test --no-ff
+<<<<<<< HEAD
 ddddd
+顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶
